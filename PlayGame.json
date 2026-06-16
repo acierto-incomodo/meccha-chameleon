@@ -1,0 +1,15 @@
+[
+    {
+        "id": "Plague Inc Evolved Launcher"
+    },
+    {
+        "name": "PlagueIncEvolved",
+        "description": "Ejecutable del juego",
+        "path": "/PlagueIncEvolved.exe"
+    },
+    {
+        "name": "ScenarioCreator",
+        "description": "Ejecutable del creador de escenarios",
+        "path": "/ScenarioCreator/PlagueIncSC.exe"
+    }
+]
